@@ -1,0 +1,8 @@
+Recursion:
+When a function calls itself or another function.
+
+There are 4 types of recursion.
+1. Tail Recusion: When recursion comes in the end of a function.
+2. Head Recusion: when recursion comes in the head of a function.
+3. Tree Recusion: when a function calls itself more than once.
+4. Indirect Recusion: when there are more than one function they call itself in a loop.
